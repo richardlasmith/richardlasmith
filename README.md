@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/richard-smith-8a8599255
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://linkedin.com/in/richard-smith-8a8599255
