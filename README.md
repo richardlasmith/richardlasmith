@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/richardlasmith/configure-ad)
   
-- <b>AWS Cloud Computing Essentials</b>
-  - [DIY Amazon S3 Bucket Creation Cloud Quest](https://github.com/richardlasmith/configure-ad)
+- <b>Amazon Web Services</b>
+  - [Cloud Computing Essentials- DIY Amazon S3 Bucket](https://github.com/richardlasmith/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
