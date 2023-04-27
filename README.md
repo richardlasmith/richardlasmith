@@ -1,4 +1,4 @@
-<h1>Hello, I'm Richard, an <a href="https://linkedin.com/in/richard-smith-8a8599255">IT & Cloud Support</a>☺</h1>
+<h1>Hello, I'm Richard, an <a href="https://www.linkedin.com/in/richard-s-8a8599255/">IT & Cloud Support</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,7 +8,9 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/richardlasmith/configure-ad)
-
+  
+- <b>AWS Cloud Computing Essentials</b>
+  - [DIY Amazon S3 Bucket Creation Cloud Quest](https://github.com/richardlasmith/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
