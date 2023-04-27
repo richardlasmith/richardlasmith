@@ -1,4 +1,4 @@
-<h1>Hello, I'm Richard, an <a href="https://linkedin.com/in/richard-smith-8a8599255">IT Professional</a>☺</h1>
+<h1>Hello, I'm Richard, an <a href="https://linkedin.com/in/richard-smith-8a8599255">IT & Cloud Support</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
