@@ -11,6 +11,8 @@
   
 - <b>Amazon Web Services</b>
   - [Cloud Computing Essentials- DIY Amazon S3 Bucket](https://github.com/richardlasmith/Cloud-Compute)
+  - [Cloud First Steps- Create & Launch Amazon EC2 Instance](https://github.com/richardlasmith/Cloud-Compute)
+
 
 <h2>🤳Connect with me:</h2>
 
