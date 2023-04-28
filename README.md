@@ -1,6 +1,6 @@
 <h1>Hello, I'm Richard, an <a href="https://www.linkedin.com/in/richard-s-8a8599255/">IT & Cloud Support</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT & Cloud Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/richardlasmith/osticket-prereqs)
