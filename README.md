@@ -8,6 +8,7 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/richardlasmith/configure-ad)
+  - [Azure HoneyNet SOC Project](https://github.com/richardlasmith/configure-ad)
   
 - <b>Amazon Web Services</b>
   - [Cloud Computing Essentials- DIY Amazon S3 Bucket](https://github.com/richardlasmith/Cloud-Compute)
