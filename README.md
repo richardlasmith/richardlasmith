@@ -15,4 +15,4 @@
   - [Cloud First Steps- Create & Launch Amazon EC2 Instance](https://github.com/richardlasmith/Cloud-EC2)
 
 - <b>Personal Project - Online Fitness Application</b>
-  - [Online Application, Membership Options, Calendar & Check-IN (https://github.com/richardlasmith/Onlinefitnessapp)
+  - [Online Application, Membership Options, Calendar & Check-IN](https://github.com/richardlasmith/Onlinefitnessapp)
